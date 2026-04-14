@@ -13,3 +13,21 @@ match dado:
         print("Lista")
     case _:
         print("Tipo desconhecido")
+        
+'''
+valor = [10, 20, 30]
+
+match valor:
+    case int():
+        print("Número inteiro")
+    case float():
+        print("Número decimal")
+    case str() as s if s.isnumeric():
+        print("String numérica")
+    case str():
+        print("String textual")
+    case list():
+        print("Lista")
+    case _:
+        print("Tipo desconhecido")
+'''
