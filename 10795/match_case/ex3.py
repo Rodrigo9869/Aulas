@@ -1,10 +1,12 @@
-tipo = input("Tipo(compra/venda): ").lower()
-#valor = int(input("Valor: "))
+dados = {
+    "tipo": input("Tipo (compra/venda): ").lower(),
+    "valor": float(input("Valor: "))
+}
 
-match tipo:
-    case "compra":
-        print("Compra de 250€")
-    case "venda":
-        print("venda de 250€")
+match dados:
+    case {"tipo": "compra", "valor": v}:
+        print("Compra de ",v)
+    case {"tipo": "venda", "valor": v}:
+        print("venda de ",v)
     case _:
         print("Pedido Desconhecido")

@@ -1,15 +1,15 @@
 dado = input("Digite um tipo de dado: ")
 
 match dado:
-    case 1:
+    case int():
         print("Número Inteiro")
-    case 2:
+    case float():
         print("Número decimal")
-    case 3:
+    case str() if str.isnumeric():
         print("String Numérica")
-    case 4:
+    case str():
         print("String Textual")
-    case 5:
+    case list():
         print("Lista")
     case _:
         print("Tipo desconhecido")
