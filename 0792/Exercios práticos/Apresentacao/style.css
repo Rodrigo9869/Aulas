@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(1, 64, 200);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    padding: 20px;
+    margin: 0;
+}
+ 
+h1{
+    color:White;
+    text-align:left;
+}
+ 
+p{
+    color:White;
+    font-size: 18px;
+    text-align:left;
+}
+
+li{
+    color:White;
+    text-align:left;
+}
+
+img{
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid WHite;
+}
