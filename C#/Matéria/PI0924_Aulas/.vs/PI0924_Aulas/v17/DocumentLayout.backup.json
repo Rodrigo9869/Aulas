@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|c:\\users\\pedro\\source\\repos\\pi0924_aulas\\pi0924_aulas\\frm_cx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|solutionrelative:pi0924_aulas\\frm_cx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|c:\\users\\pedro\\source\\repos\\pi0924_aulas\\pi0924_aulas\\frm_cx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|solutionrelative:pi0924_aulas\\frm_cx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|c:\\users\\pedro\\source\\repos\\pi0924_aulas\\pi0924_aulas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|solutionrelative:pi0924_aulas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|c:\\users\\pedro\\source\\repos\\pi0924_aulas\\pi0924_aulas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|solutionrelative:pi0924_aulas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|c:\\users\\pedro\\source\\repos\\pi0924_aulas\\pi0924_aulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7165DA55-2153-49AF-83D2-9C3E747DAEFA}|PI0924_Aulas\\PI0924_Aulas.csproj|solutionrelative:pi0924_aulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Cx.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\frm_Cx.cs",
+              "RelativeDocumentMoniker": "PI0924_Aulas\\frm_Cx.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\frm_Cx.cs*",
+              "RelativeToolTip": "PI0924_Aulas\\frm_Cx.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:00:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\Form1.cs",
+              "RelativeDocumentMoniker": "PI0924_Aulas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\Form1.cs",
+              "RelativeToolTip": "PI0924_Aulas\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:18:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Cx.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\frm_Cx.cs",
+              "RelativeDocumentMoniker": "PI0924_Aulas\\frm_Cx.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\frm_Cx.cs [Design]*",
+              "RelativeToolTip": "PI0924_Aulas\\frm_Cx.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:09:39.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\Program.cs",
+              "RelativeDocumentMoniker": "PI0924_Aulas\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\Program.cs",
+              "RelativeToolTip": "PI0924_Aulas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:06:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\Form1.cs",
+              "RelativeDocumentMoniker": "PI0924_Aulas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\PI0924_Aulas\\PI0924_Aulas\\Form1.cs [Design]",
+              "RelativeToolTip": "PI0924_Aulas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:57:42.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

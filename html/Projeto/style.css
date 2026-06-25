@@ -1,0 +1,73 @@
+/* Estilo geral */
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #0f6622;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Menu */
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: rgb(0, 255, 0);
+}
+
+/* Conteúdo */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Rodapé */
+footer {
+    background-color: #0f6622;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Estilo do Ano à esquerda com a linha por baixo */
+.ano-destaque {
+    font-family: 'Arial Black', sans-serif;
+    letter-spacing: -2px;
+    text-align: left;
+    margin: 0 0 10px 0; /* Margem apenas na parte de baixo */
+    display: inline-block; /* Faz com que a linha por baixo ocupe apenas o tamanho do texto do ano */
+    border-bottom: 4px solid #333; /* Cria a linha escura diretamente abaixo do ano */
+    padding-bottom: 5px; /* Espaço entre o número do ano e a linha */
+    padding-right: 250px; /* FAZ A MAGIA: Estica a linha um pouco para além do ano */
+}
+
+.bloco-cronologico {
+    text-align: left; /* Alinha o bloco geral à esquerda */
+    margin-bottom: 50px; /* Dá espaço entre os capítulos */
+}
+
+/* O título do feito (h3) e o texto (p) vêm logo abaixo automaticamente */
+.titulo-feito {
+    margin: 0 0 10px 0;
+}
+
+.descricao-feito {
+    text-align: justify; /* O texto da história fica direitinho e elegante */
+}
