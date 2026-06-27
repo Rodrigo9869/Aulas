@@ -59,15 +59,15 @@ footer {
 }
 
 .bloco-cronologico {
-    text-align: left; /* Alinha o bloco geral à esquerda */
-    margin-bottom: 50px; /* Dá espaço entre os capítulos */
+    text-align: left; 
+    margin-bottom: 50px; 
 }
 
-/* O título do feito (h3) e o texto (p) vêm logo abaixo automaticamente */
+
 .titulo-feito {
     margin: 0 0 10px 0;
 }
 
 .descricao-feito {
-    text-align: justify; /* O texto da história fica direitinho e elegante */
+    text-align: justify; 
 }
