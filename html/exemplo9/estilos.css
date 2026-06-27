@@ -1,0 +1,33 @@
+:root {
+    --bg: #121214; --card: #1a1a1e; --red: #ff3e3e; --text: #fff; --gray: #a0a0a5;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { background: var(--bg); color: var(--text); font-family: sans-serif; padding-top: 70px; }
+
+/* Menu Fixo */
+nav { position: fixed; top: 0; width: 100%; background: rgba(26,26,30,0.95); border-bottom: 2px solid var(--red); z-index: 1000; }
+nav ul { display: flex; justify-content: center; list-style: none; padding: 15px; }
+nav li { margin: 0 15px; }
+nav a { color: var(--text); text-decoration: none; font-weight: bold; text-transform: uppercase; }
+nav a:hover { color: var(--red); }
+
+/* Secções e Conteúdo */
+section { max-width: 800px; margin: 30px auto; padding: 30px 20px; background: var(--card); border-radius: 8px; }
+h2 { color: var(--red); margin-bottom: 15px; border-left: 4px solid var(--red); padding-left: 10px; }
+p { color: var(--gray); margin-bottom: 15px; }
+.banner { width: 100%; border-radius: 6px; }
+
+/* Programa e Mapa */
+#programa li { background: #26262b; margin-bottom: 8px; padding: 12px; border-radius: 6px; border-right: 4px solid var(--red); }
+.Mapa { position: relative; padding-top: 56.25%; border-radius: 6px; overflow: hidden; }
+.Mapa iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+
+/* Formulário */
+form { display: flex; flex-direction: column; }
+input, select { background: #26262b; border: 1px solid #444; color: #fff; padding: 10px; margin: 5px 0 15px; border-radius: 6px; }
+input:focus, select:focus { border-color: var(--red); outline: none; }
+button { background: var(--red); color: #fff; border: none; padding: 12px; font-weight: bold; border-radius: 6px; cursor: pointer; }
+button:hover { background: #d62828; }
+.voltar-topo { text-align: right; margin-top: 15px; }
+.voltar-topo a { color: var(--gray); text-decoration: none; font-size: 0.9rem; }
